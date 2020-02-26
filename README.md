@@ -14,6 +14,10 @@ c.	John. A. Paulson School of Engineering and Applied Sciences, Harvard Universi
  
  
  
+# AIMD movies of fcc-type sulfur anion framework 
+ 
+ 
+ 
 # data and codes/Figure 1/
 
 “oxide.csv”, “sulfide.csv” and “Materials_charge_volume.opj” are the data of the anion Bader charges, lattice volumes, and Li coordination number for some common lithium oxides with fcc-type oxygen anion frameworks from the MP database. 
