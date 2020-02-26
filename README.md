@@ -1,12 +1,15 @@
 # Instruction of data and codes of the paper of 
 
+
 Anion charge and lattice volume dependent Li ion migration in compounds with the face-centered cubic anion frameworks
 
 
 Zhenming Xu, Xin Chen, Ronghan Chen, Xin Li, Hong Zhu, 
 
 a.	University of Michigan–Shanghai Jiao Tong University Joint Institute, Shanghai Jiao Tong University, 800, Dongchuan Road, Shanghai, 200240, China
+
 b.	School of Materials Science and Engineering, Shanghai Jiao Tong University, 800, Dongchuan Road, Shanghai, 200240, China
+
 c.	John. A. Paulson School of Engineering and Applied Sciences, Harvard University, 29 Oxford St, Cambridge, Massachusetts, 02138, USA
  
  
