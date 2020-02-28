@@ -106,11 +106,11 @@ Figure S4 and S5 show the heat maps of the calculated Em of Li ion migration bet
 
 # AIMD movies of fcc-type sulfur anion framework with a single Li ion
 
-anion_charge = -0.5 e and lattice_volume = 31.76 Å3/atom
+Movie-1, anion_charge = -0.5 e and lattice_volume = 31.76 Å3/atom
 
-anion_charge = -0.5 e and lattice_volume = 54.87 Å{3/atom
+Movie-2, anion_charge = -0.5 e and lattice_volume = 54.87 Å{3/atom
 
-anion_charge = -1.7 e and lattice_volume = 31.76 Å3/atom
+Movie-3, anion_charge = -1.7 e and lattice_volume = 31.76 Å3/atom
 
-anion_charge = -1.7 e and lattice_volume = 54.87 Å3/atom
+Movie-4, anion_charge = -1.7 e and lattice_volume = 54.87 Å3/atom
 
