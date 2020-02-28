@@ -103,3 +103,11 @@ similar to data and codes/Figure 3
 
 Figure S4 and S5 show the heat maps of the calculated Em of Li ion migration between the two adjacent Oct and Tet central sites in the artificial fcc-type halogen anion frameworks, and the energy differences between the Tet Li site and Oct Li site in fcc-type halogen anion frameworks with respect to different anion charges and lattice volumes, respectively.
 
+
+# AIMD movies of fcc-type sulfur anion framework with a single Li ion
+
+anion_charge = -0.5 e and lattice_volume = 31.76 Å3/atom
+anion_charge = -0.5 e and lattice_volume = 54.87 Å3/atom
+anion_charge = -1.7 e and lattice_volume = 31.76 Å3/atom
+anion_charge = -1.7 e and lattice_volume = 54.87 Å3/atom
+
