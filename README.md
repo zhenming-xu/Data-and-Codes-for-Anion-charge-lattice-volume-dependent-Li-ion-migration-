@@ -14,9 +14,6 @@ c.	John. A. Paulson School of Engineering and Applied Sciences, Harvard Universi
  
  
  
-# AIMD movies of fcc-type sulfur anion framework 
- 
- 
  
 # data and codes/Figure 1/
 
